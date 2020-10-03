@@ -1,0 +1,18 @@
+C:\Users\TASIN\Desktop\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\bin\Debug\OOP2.PharmacyManagementSystem.Data.dll
+C:\Users\TASIN\Desktop\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\bin\Debug\OOP2.PharmacyManagementSystem.Data.pdb
+C:\Users\TASIN\Desktop\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\obj\Debug\OOP2.PharmacyManagementSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\TASIN\Desktop\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\obj\Debug\OOP2.PharmacyManagementSystem.Data.dll
+C:\Users\TASIN\Desktop\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\obj\Debug\OOP2.PharmacyManagementSystem.Data.pdb
+C:\Users\TASIN\Desktop\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\obj\Debug\OOP2.PharmacyManagementSystem.Data.csprojAssemblyReference.cache
+F:\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\bin\Debug\OOP2.PharmacyManagementSystem.Data.dll
+F:\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\bin\Debug\OOP2.PharmacyManagementSystem.Data.pdb
+F:\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\obj\Debug\OOP2.PharmacyManagementSystem.Data.csproj.CoreCompileInputs.cache
+F:\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\obj\Debug\OOP2.PharmacyManagementSystem.Data.dll
+F:\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\obj\Debug\OOP2.PharmacyManagementSystem.Data.pdb
+F:\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\obj\Debug\OOP2.PharmacyManagementSystem.Data.csprojAssemblyReference.cache
+C:\Users\TASIN\Desktop\Pharmacy Management System\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\bin\Debug\OOP2.PharmacyManagementSystem.Data.dll
+C:\Users\TASIN\Desktop\Pharmacy Management System\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\bin\Debug\OOP2.PharmacyManagementSystem.Data.pdb
+C:\Users\TASIN\Desktop\Pharmacy Management System\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\obj\Debug\OOP2.PharmacyManagementSystem.Data.csprojAssemblyReference.cache
+C:\Users\TASIN\Desktop\Pharmacy Management System\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\obj\Debug\OOP2.PharmacyManagementSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\TASIN\Desktop\Pharmacy Management System\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\obj\Debug\OOP2.PharmacyManagementSystem.Data.dll
+C:\Users\TASIN\Desktop\Pharmacy Management System\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Data\obj\Debug\OOP2.PharmacyManagementSystem.Data.pdb

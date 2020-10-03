@@ -1,0 +1,6 @@
+C:\Users\TASIN\Desktop\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Entity\bin\Debug\OOP2.PharmacyManagementSystem.Entity.dll
+C:\Users\TASIN\Desktop\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Entity\bin\Debug\OOP2.PharmacyManagementSystem.Entity.pdb
+C:\Users\TASIN\Desktop\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Entity\obj\Debug\OOP2.PharmacyManagementSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\TASIN\Desktop\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Entity\obj\Debug\OOP2.PharmacyManagementSystem.Entity.dll
+C:\Users\TASIN\Desktop\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Entity\obj\Debug\OOP2.PharmacyManagementSystem.Entity.pdb
+C:\Users\TASIN\Desktop\OOP2.PharmacyManagementSystem\OOP2.PharmacyManagementSystem.Entity\obj\Debug\OOP2.PharmacyManagementSystem.Entity.csprojAssemblyReference.cache
